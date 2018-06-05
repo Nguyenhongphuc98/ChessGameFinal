@@ -1,0 +1,76 @@
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\bin\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\bin\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\GUI\obj\Debug\GUI.Mode1AndMode2.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\bin\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\bin\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.Mode1AndMode2.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.PromotionForm.resources
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\bin\Debug\GUI.exe.config
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.exe
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.pdb
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\bin\Debug\GUI.exe
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\bin\Debug\GUI.pdb
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\bin\Debug\ObjectGame.dll
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\bin\Debug\ObjectGame.pdb
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.Mode1AndMode2.resources
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.PromotionForm.resources
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\NGO THI HUYEN\Documents\Gamechess\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\bin\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\bin\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.Mode1AndMode2.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.PromotionForm.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ\ChessGame-master\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\bin\Debug\GUI.exe
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\bin\Debug\GUI.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.Mode1AndMode2.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.PromotionForm.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\GUI\obj\Debug\GUI.About.resources

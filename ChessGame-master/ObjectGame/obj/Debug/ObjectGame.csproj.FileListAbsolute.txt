@@ -1,0 +1,20 @@
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\ObjectGame\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\ObjectGame\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\ObjectGame\obj\Debug\ObjectGame.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\ObjectGame\obj\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\GameCoVua\ObjectGame\obj\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\ObjectGame\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\ObjectGame\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\ObjectGame\obj\Debug\ObjectGame.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\ObjectGame\obj\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\IT\2018\LTTQ\Đồ án\SourceChessGame\ObjectGame\obj\Debug\ObjectGame.pdb
+C:\Users\NGO THI HUYEN\Documents\Gamechess\ObjectGame\bin\Debug\ObjectGame.dll
+C:\Users\NGO THI HUYEN\Documents\Gamechess\ObjectGame\bin\Debug\ObjectGame.pdb
+C:\Users\NGO THI HUYEN\Documents\Gamechess\ObjectGame\obj\Debug\ObjectGame.csprojResolveAssemblyReference.cache
+C:\Users\NGO THI HUYEN\Documents\Gamechess\ObjectGame\obj\Debug\ObjectGame.dll
+C:\Users\NGO THI HUYEN\Documents\Gamechess\ObjectGame\obj\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\ObjectGame\bin\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\ObjectGame\bin\Debug\ObjectGame.pdb
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\ObjectGame\obj\Debug\ObjectGame.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\ObjectGame\obj\Debug\ObjectGame.dll
+C:\Users\Nguyen Hong Phuc\Desktop\Đồ án LTQ - Nâng cấp redo\ChessGame-master\ObjectGame\obj\Debug\ObjectGame.pdb
